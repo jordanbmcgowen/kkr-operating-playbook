@@ -1,0 +1,1796 @@
+[
+  {
+    "name": "+Simple",
+    "asset_class": "Tech Growth",
+    "industry": "Financials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "1-800 Contacts, Inc.",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "123Dentist",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "A-Gas",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Accuris",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Adopt A Cow",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Advanced Navigation",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Advanta Seeds",
+    "asset_class": "Global Impact",
+    "industry": "Materials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "AEP Transmission",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Agiloft",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Aiwyn Inc",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Albioma",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Alchemer",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Altitude Aircraft Leasing",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Anchorage Digital",
+    "asset_class": "Tech Growth",
+    "industry": "Financials",
+    "location": "Americas"
+  },
+  {
+    "name": "Apex Analytix",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "April",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Argenta",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Arnott's",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Artlist",
+    "asset_class": "Tech Growth",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Ascend Asia",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Asclepius",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Aster Renewable Energy",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Atlantic Aviation",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Avantus",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Avendus Capital",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "AVIV Group",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Axius Water",
+    "asset_class": "Global Impact",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Barracuda Networks",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Bay Club",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "Beacon Pointe Advisors Holdings, LLC",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Americas"
+  },
+  {
+    "name": "Biosynth",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Biotage",
+    "asset_class": "Private Equity Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Blue Sprig",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "BMC",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "BMH",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "BridgeBio Pharma",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Brightline, Inc.",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "BrightSpring Health Services",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "BrightView",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Bushu Pharma",
+    "asset_class": "Infrastructure",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "ByteDance",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "CapeOmega",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Captive Resources",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Americas"
+  },
+  {
+    "name": "CarbonCount Holdings",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Caruna Oy",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Cegid",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Central Tank Terminal",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Charter Next Generation",
+    "asset_class": "Private Equity",
+    "industry": "Materials",
+    "location": "Americas"
+  },
+  {
+    "name": "Chase Corp",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "CIRCOR",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Citation Group",
+    "asset_class": "Global Impact Private Equity",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Clarify Health Solutions",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Clinisupplies",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Cloudera",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "CMC Packaging Automation",
+    "asset_class": "Global Impact",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Coastal GasLink",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Americas"
+  },
+  {
+    "name": "Coherus BioSciences",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Colonial First State",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Contabo",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Contentsquare",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Contour Global",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "CoolIT Systems",
+    "asset_class": "Global Impact",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Cordia Energy",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Cordis",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Corel",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Cotiviti",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Covenant Physician Partners",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Cue & Co",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "CyrusOne, LLC",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "Darwinbox",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Data X",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "DATAGROUP",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Davante",
+    "asset_class": "Global Impact",
+    "industry": "Consumer Discretionary",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Dawn Biopharma",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Dawsongroup",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Dayao Beverage",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Dcar",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "DentalXChange",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Depot Connect International",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Devoteam",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "EchoNous (fka Signostics)",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Education Perfect Limited",
+    "asset_class": "Global Impact Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "EGC Group",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Elsan Holding SAS",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Employment Hero",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Encavis AG",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Enilive S.p.A Global",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Ensono Holdings, LLC",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Ensora Health",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Epic Games",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "EQuest Education Joint Stock Company",
+    "asset_class": "Global Impact",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "ERM Worldwide Group Limited",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Exact",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Falcon Vision",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Feedzai",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "FGS Global",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "FiberCop NetCo",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Finago",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "First Gen Corporation",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Five-Star Business Finance Limited",
+    "asset_class": "Global Impact",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Flora Food Group",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Flow Control Group",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Fortifi",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Frontier Biosolutions",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "FUJI SOFT",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Gambol Pet Group",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Gamma Biosciences",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Genesis Energy, L.P.",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Americas"
+  },
+  {
+    "name": "Geode Health",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "GetYourGuide",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "GfK SE",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "ghSMART",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Global Medical Response",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Global Technical Realty",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Graduation Alliance",
+    "asset_class": "Global Impact",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "Greentide Maritime",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Greenvolt",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Groundworks",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "Growsari",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Grupo Alvic",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Guesty",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Gulf Data Hub",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "HealthCare Global Enterprises",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Healthium Medtech",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Heartland Dental",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Henry Schein",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Hero Future Energies",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Hoken Minaoshi Hompo",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Huohua Logic",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Hyperion Materials & Technologies",
+    "asset_class": "Private Equity",
+    "industry": "Materials",
+    "location": "Americas"
+  },
+  {
+    "name": "Hyperoptic",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Hyundai Marine Solution., Ltd.",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Ignis",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Immedica Pharma",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Impel Pharmaceuticals",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "IndiGrid",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Industrial Physics",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Infinx",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Infios",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Instructure Holdings Inc.",
+    "asset_class": "Global Impact",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Internet Brands",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "IQGeo",
+    "asset_class": "Global Impact Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "IVI-RMA",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Janney Montgomery Scott",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Americas"
+  },
+  {
+    "name": "JB Chemicals & Pharmaceuticals Ltd",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Jiangsu Yuguan",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Jio Platforms Limited",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Communication Services",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "John Laing",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Joulon",
+    "asset_class": "Private Equity",
+    "industry": "Energy",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Kareway Health",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Karo Healthcare",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "KiotViet",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Kito Crosby Group",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "KnowBe4",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Knowlton Development Corp",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Americas"
+  },
+  {
+    "name": "Koki Holdings Co., Ltd",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Kokusai Electric Corporation",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Korean Battery ESS",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Landal",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Latitude Financial Services",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "LEAP India Private Limited",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Leapwork A/S",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Lenskart",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Level Access",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Lightcast",
+    "asset_class": "Global Impact",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Lighthouse",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Lighthouse Learning Private Limited",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Livspace",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Real Estate",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "LOGISTEED",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "LS Automotive",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Marmic Fire & Safety, Inc",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "MasOrange",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Mediawan Holding",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Medical Saigon Group",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Metro Pacific Hospital Holdings, Inc.",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "MetroNet Fiber Inc",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "Monterra Energy",
+    "asset_class": "Private Equity",
+    "industry": "Energy",
+    "location": "Americas"
+  },
+  {
+    "name": "MUSINSA",
+    "asset_class": "Tech Growth",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "My Pizza Technologies, Inc.",
+    "asset_class": "Tech Growth",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "MYOB",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Nasuni",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Natural Pet Food Group",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Neighborly",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "Neon Renewables",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Ness Digital",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "NetSPI",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "NetStars",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "nexeye",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Nordic Bioscience",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Northumbrian Water",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Novaria Group",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "NVC Lighting",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Nxera",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "o9 Solutions",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Ocean Yield",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "OHB",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Omnissa",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "ON*NET Fibra Chile",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "ON*NET Fibra Colombia",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "OneStream Software",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Ontic Technologies",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Open Dutch Fiber",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Optic Marine Services Group",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Optiv",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Ornikar",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Osttra Group Ltd",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "OutSystems",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "OverDrive",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "Paddle.com Market Limited",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Pembina Gas Infrastructure",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Americas"
+  },
+  {
+    "name": "PetVet",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "PHC",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "PHINMA Education",
+    "asset_class": "Global Impact",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Pinnacle Towers Pte Ltd",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "PlayOn! Sports",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "Port Arthur LNG LLC",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Americas"
+  },
+  {
+    "name": "Potter Global Technologies",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Precipart",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Premialab",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Privy ID",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Probe Group Pty Ltd",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "ProTen",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Q-Park N.V.",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Qonto",
+    "asset_class": "Tech Growth",
+    "industry": "Financials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Queensland Airports Limited",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Qventus Inc",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "RainFocus",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Re Sustainability Limited",
+    "asset_class": "Global Impact Private Equity",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Rebel Foods",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Refresco",
+    "asset_class": "Infrastructure",
+    "industry": "Materials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Reintel",
+    "asset_class": "Infrastructure",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Reliance Logistics and Warehouse Holdings Limited",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Reliance Retail Ventures Limited",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "ReliaQuest LLC",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Renewus",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Resolian",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Resource Environmental Solutions (\"RES\")",
+    "asset_class": "Global Impact",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Restaurant365",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Ritchies Transport Holdings Ltd.",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Ruichen Pet Veterinary Hospitals",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "RVShare",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Samhwa",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Sapphiros",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Sector Alarm",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Semperis",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Sempra Infrastructure",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Serentica Renewables",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Shanghai Moody E-commerce Co., Ltd.",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Shenzhen XunCe Technology Co., Ltd.",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Shriram General Insurance",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Simon & Schuster",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "SK E&S",
+    "asset_class": "Infrastructure",
+    "industry": "Energy",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "SkinSpirit",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Slayback Pharma",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Sleepme Inc.",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Smart Metering Services",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "SmartHR",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Japan"
+  },
+  {
+    "name": "smaXtec",
+    "asset_class": "Tech Growth",
+    "industry": "Healthcare",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Sol Systems LLC",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Americas"
+  },
+  {
+    "name": "Sovra",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "Spark Infrastructure",
+    "asset_class": "Infrastructure",
+    "industry": "Utilities",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Spectris",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "STT Global",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Sunfire",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Superstruct Entertainment",
+    "asset_class": "Private Equity",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "SupplyHouse",
+    "asset_class": "Private Equity",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "Suzhou Quanyi Health Pharmacy Chain",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Sylvan",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "S\u00f6derberg & Partners",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Teaching Strategies Inc",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "Telenor Fiber",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "The Parking Spot",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Americas"
+  },
+  {
+    "name": "The Stepstone Group",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Topcon Corporation",
+    "asset_class": "Private Equity",
+    "industry": "Healthcare",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "TowerNex",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Americas"
+  },
+  {
+    "name": "Travelopia",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Treeline Biosciences",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Trilogy MedWaste",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "USI Insurance Services LLC",
+    "asset_class": "Private Equity",
+    "industry": "Financials",
+    "location": "Americas"
+  },
+  {
+    "name": "V3 Group Limited",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Vantage Towers",
+    "asset_class": "Infrastructure",
+    "industry": "Communication Services",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Varsity Brands",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "Vertis Infrastructure Trust",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Vini Cosmetics Pvt. Ltd.",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Viridor",
+    "asset_class": "Infrastructure Global Impact",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Vitesse",
+    "asset_class": "Tech Growth",
+    "industry": "Financials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Voyager Innovations",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Walnut Programming",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "We Park Limited",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Wella",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Xingsheng Youxuan",
+    "asset_class": "Tech Growth Private Equity",
+    "industry": "Consumer Discretionary",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Xoi",
+    "asset_class": "Tech Growth",
+    "industry": "Information Technology",
+    "location": "Americas"
+  },
+  {
+    "name": "Yayoi Co., Ltd.",
+    "asset_class": "Private Equity",
+    "industry": "Information Technology",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Zenobe",
+    "asset_class": "Infrastructure",
+    "industry": "Industrials",
+    "location": "Europe, The Middle East And Africa"
+  },
+  {
+    "name": "Zeus Health",
+    "asset_class": "Health Care Growth",
+    "industry": "Healthcare",
+    "location": "Americas"
+  },
+  {
+    "name": "Zinnia Corporate Holdings, LLC",
+    "asset_class": "Tech Growth",
+    "industry": "Consumer Discretionary",
+    "location": "Americas"
+  },
+  {
+    "name": "ZJLD Group Inc.",
+    "asset_class": "Private Equity",
+    "industry": "Consumer Staples",
+    "location": "Asia Pacific"
+  },
+  {
+    "name": "Zwift Inc.",
+    "asset_class": "Tech Growth",
+    "industry": "Communication Services",
+    "location": "Americas"
+  }
+]
