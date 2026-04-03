@@ -174,6 +174,29 @@ const quizData = [
     options: ["10+", "20+", "30+", "50+"],
     correct: 2,
     explanation: "Neighborly has grown to more than 30 brands and over 5,500 franchises across six countries, surpassing $4 billion in systemwide sales in 2023."
+  },
+  {
+    question: "Which institution holds a minority co-investment stake in Neighborly alongside KKR?",
+    options: ["Canada Pension Plan (CPP)", "Investment Management Corporation of Ontario (IMCO)", "Ontario Teachers Pension Plan", "Caisse de depot et placement du Quebec (CDPQ)"],
+    correct: 1,
+    explanation: "According to PitchBook data, the Investment Management Corporation of Ontario (IMCO) holds a minority stake in Neighborly, with KKR holding the majority since the September 2021 buyout."
+  },
+  {
+    question: "What is KKR Solutions, launched in early 2026?",
+    options: [
+      "A new technology consulting division for portfolio companies",
+      "KKR's rebranded Capstone operational improvement team",
+      "A new investing platform anchored by the acquisition of Arctos Partners, targeting sports franchises and GP solutions",
+      "KKR's institutional advisory practice for sovereign wealth funds"
+    ],
+    correct: 2,
+    explanation: "KKR Solutions was launched in early 2026, built around the $1.4B acquisition of Arctos Partners. It combines professional sports franchise investing, GP solutions, and multi-asset class secondaries, with a target of $100B in AUM."
+  },
+  {
+    question: "What was KKR's Fee-Paying AUM (FPAUM) as of Q4 2025?",
+    options: ["$321 billion", "$450 billion", "$604 billion", "$744 billion"],
+    correct: 2,
+    explanation: "KKR's Fee-Paying AUM reached $604 billion as of Q4 2025, up 18% year-over-year. This is distinct from total AUM of $744B — FPAUM is the portion generating management fees, which reached $4.1B in FY2025."
   }
 ];
 
